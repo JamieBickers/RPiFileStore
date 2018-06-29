@@ -1,0 +1,8 @@
+C:\Users\bicke\OneDrive\Desktop\RPiFileStore\RPiFileStore\bin\Debug\netcoreapp2.0\RPiFileStore.deps.json
+C:\Users\bicke\OneDrive\Desktop\RPiFileStore\RPiFileStore\bin\Debug\netcoreapp2.0\RPiFileStore.runtimeconfig.json
+C:\Users\bicke\OneDrive\Desktop\RPiFileStore\RPiFileStore\bin\Debug\netcoreapp2.0\RPiFileStore.runtimeconfig.dev.json
+C:\Users\bicke\OneDrive\Desktop\RPiFileStore\RPiFileStore\bin\Debug\netcoreapp2.0\RPiFileStore.dll
+C:\Users\bicke\OneDrive\Desktop\RPiFileStore\RPiFileStore\bin\Debug\netcoreapp2.0\RPiFileStore.pdb
+C:\Users\bicke\OneDrive\Desktop\RPiFileStore\RPiFileStore\obj\Debug\netcoreapp2.0\RPiFileStore.fsprojResolveAssemblyReference.cache
+C:\Users\bicke\OneDrive\Desktop\RPiFileStore\RPiFileStore\obj\Debug\netcoreapp2.0\RPiFileStore.dll
+C:\Users\bicke\OneDrive\Desktop\RPiFileStore\RPiFileStore\obj\Debug\netcoreapp2.0\RPiFileStore.pdb
